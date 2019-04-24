@@ -1,4 +1,4 @@
-#Hiring Trends in Fintech-Part1
+# Hiring Trends in Fintech-Part1
 
 Overview--
 The services provided by Financial institutions in the US are changing rapidly. Changing business models and the technological revolution has fueled the growth of a new breed of financial products and services collectively known as “Fintech”.
@@ -16,5 +16,6 @@ We scraped the hiring data from top two US Banks- KeyCorp, Fifth Third Corp usin
 
 Task3--
 Analysis
-We analyzed this data and drew insights on hiring patterns and trends.
-[Analysis Report] (https://codelabs-preview.appspot.com/?file_id=1mgXZ8IrPmXS8ge-lz9yalxQDUInzzsEIQc8h0hHhwlU#0)
+We analyzed this data and drew insights on hiring patterns and trends
+
+[Analysis Report](https://codelabs-preview.appspot.com/?file_id=1mgXZ8IrPmXS8ge-lz9yalxQDUInzzsEIQc8h0hHhwlU#0)
