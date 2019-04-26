@@ -29,9 +29,9 @@ Analysis We Built out test cases to test out use cases that are important for ou
 
 **claat document link for analysis:**
 
-https://docs.google.com/document/d/18CjQeZKqqHK9gusSjen6zibELeFaEFM_ACZmdYRCycY/edit#
+<a href ="https://docs.google.com/document/d/18CjQeZKqqHK9gusSjen6zibELeFaEFM_ACZmdYRCycY/edit#"> Report- Analysis of lending club data </a>
 
-**Dataset used for this project**
+**Dataset**
 
-https://www.kaggle.com/wendykan/lending-club-loan-data
+<a href ="https://www.kaggle.com/wendykan/lending-club-loan-data"> Source </a>
 
