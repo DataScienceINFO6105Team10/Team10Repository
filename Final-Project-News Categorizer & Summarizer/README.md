@@ -15,6 +15,7 @@ To categorize the news by getting input from the user. Added to that, it summari
 
 **Analysis of the Model**
 
+
 **How to run the app**
 
 **Claat Document Link**
