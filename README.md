@@ -28,3 +28,7 @@ Sonal Thube
 **Team Presentation - Data Science Platforms**
 
 <a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/blob/master/Team-%20Presentation-%20Data%20Science%20Platforms/Data_Science_Platforms.pptx"> Data Science Platforms </a>
+
+**inNutShell - News Categorizer & Summarizer**
+
+<a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Final-Project-News%20Categorizer%20%26%20Summarizer" inNutShell </a>
