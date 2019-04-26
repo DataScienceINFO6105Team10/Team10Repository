@@ -31,4 +31,4 @@ Sonal Thube
 
 **inNutShell - News Categorizer & Summarizer**
 
-<a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Final-Project-News%20Categorizer%20%26%20Summarizer" inNutShell </a>
+<a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Final-Project-News%20Categorizer%20%26%20Summarizer" > inNutShell </a>
