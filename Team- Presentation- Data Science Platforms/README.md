@@ -20,3 +20,7 @@ DATABRICKS
 METIS MACHINE
 
 DATASCIENCE.COM
+
+**Data Science**
+
+<a href ="https://youtu.be/AFSJehoFnGU"> Data Science Platforms </a>
