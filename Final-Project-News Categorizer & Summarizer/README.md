@@ -1,5 +1,7 @@
 # inNutShell - News Categorizer and Summarizer
 
+<a href = "https://newsinnutshell.herokuapp.com/api"> inNutShell </a>
+
 **Goal**
 
 To categorize the news by getting input from the user. Added to that, it summarizes the top news from BBC news through Extractive Text Summarization.
