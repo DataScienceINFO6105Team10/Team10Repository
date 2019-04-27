@@ -7,6 +7,7 @@
 To categorize the news by getting input from the user. Added to that, it summarizes the top news from BBC news through Extractive Text Summarization.
 
 **Data Source**
+
 <a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Final-Project-News%20Categorizer%20%26%20Summarizer/data"> Vox News - Dataset  Cleaned </a>
 
 
