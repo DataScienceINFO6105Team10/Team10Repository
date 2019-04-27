@@ -1,6 +1,6 @@
 # inNutShell - News Categorizer and Summarizer
 
-<a href = "https://newsinnutshell.herokuapp.com/api"> inNutShell </a>
+<a href = "https://newsinnutshell.herokuapp.com/api"> inNutShell - Web App </a>
 
 **Goal**
 
