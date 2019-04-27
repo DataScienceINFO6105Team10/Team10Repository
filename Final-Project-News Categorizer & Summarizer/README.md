@@ -53,6 +53,9 @@ After running the application you can see the port number on which port flask sp
 go to localhost:port_number/api URl accesing the application
 ```
 
+**Final Report**
+<a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Final-Project-News%20Categorizer%20%26%20Summarizer/report"> Final Report </a>
+
 **Claat Document Link**
 
 <a href ="https://codelabs-preview.appspot.com/?file_id=1hFCzahhkbONXQuza279TVh9pjxs1KBWMDmaWZZ9ZsWs#0"> Project Proposal </a>
