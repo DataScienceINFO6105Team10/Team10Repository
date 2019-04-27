@@ -21,7 +21,26 @@ Multilayer perceptron
 k-nearest neighbor
 ```
 
-Compared the models above and used Stochastic Gradient Descent
+Compared the models above and used Stochastic Gradient Descent in our web application to categorize the news.
+
+
+**Categories classified**
+
+```
+Business & Finance
+Technology & Health
+Crime
+Politics
+Entertainment
+```
+
+**Extractive Summarization**
+
+```
+Summarize the scraped news from the bbc news website
+Display the summarized news in the application
+This approach highlights the important sentences in the paragraph and summarizes the weighted sentences
+```
 
 
 **How to run the app**
