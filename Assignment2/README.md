@@ -33,6 +33,6 @@ Analyzed the following the questions:
 
 Report for the analysis
 
-<a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Assignment2/Report" Analysis Report </a>
+<a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Assignment2/Report"> Analysis Report </a>
 
 
