@@ -10,6 +10,19 @@ To categorize the news by getting input from the user. Added to that, it summari
 
 <a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Final-Project-News%20Categorizer%20%26%20Summarizer/data"> Vox News - Dataset  Cleaned </a>
 
+**MultiClass - Classification Algorithm**
+
+```
+Stochastic Gradient Descent
+Support Vector Machine
+Random Forest Classifier
+Decision Tree
+Multilayer perceptron
+k-nearest neighbor
+```
+
+Compared the models above and used Stochastic Gradient Descent
+
 
 **How to run the app**
 
