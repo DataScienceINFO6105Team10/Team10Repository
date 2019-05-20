@@ -18,7 +18,7 @@ Forming clusters for different areas of Fintech
 Collected 24 US National Bank job openings
 ```
 
-**Analyszed the data**
+**Analyzed the data**
 
 Analyzed the following the questions:
 
@@ -31,7 +31,7 @@ Analyzed the following the questions:
 4. What will you recommend for the job seekers?
 
 
-Report for the analysis
+**Report for the analysis**
 
 <a href ="https://github.com/DataScienceINFO6105Team10/Team10Repository/tree/master/Assignment2/Report"> Analysis Report </a>
 
