@@ -26,7 +26,7 @@ nltk==3.4.1
 protobuf==3.7.1
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2018.9
 requests==2.21.0
 rsa==4.0
